@@ -20,4 +20,4 @@
 
 
 
-#### Download ➤ [USB Wireless UtilityPrefPane.dmg.zip ]()
+#### Download ➤ [USB Wireless UtilityPrefPane.dmg.zip ](https://github.com/chris1111/USB-Wireless-UtilityPrefPane/releases/tag/V1-Beta)
