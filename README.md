@@ -18,6 +18,9 @@
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/untitl12.png)
 
+## NOTE: 
+- After you have done the Set-UP the WIFI will automatically connect to any reboot or log out. You do not need to open the utility, wait for the connection! [Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/scree112.png)
+
 
 
 #### Download ➤ [USB Wireless UtilityPrefPane.dmg.zip ](https://github.com/chris1111/USB-Wireless-UtilityPrefPane/releases/tag/V1-Beta)
