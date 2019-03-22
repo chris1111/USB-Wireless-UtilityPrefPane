@@ -1,5 +1,8 @@
 # USB Wireless UtilityPrefPane
 
+### An old D-Link project that I redid to adapt it to macOS Mojave 10.14
+- This is a beta phase project for the moment.
+
 ### For Mac and Hackintosh
 
 #### Credit:
